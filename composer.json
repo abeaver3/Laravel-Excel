@@ -1,5 +1,5 @@
 {
-  "name": "maatwebsite/excel",
+  "name": "abeaver3/Laravel-Excel",
   "description": "Supercharged Excel exports and imports in Laravel",
   "license": "MIT",
   "keywords": [
